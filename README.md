@@ -46,8 +46,6 @@ git clone https://github.com/your-username/rock-paper-scissors.git
 
 
 
----
-
 Let me know if you'd like help adding a screenshot preview or turning this into a hosted webpage with GitHub Pages!
 
 ---
