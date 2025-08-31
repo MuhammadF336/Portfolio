@@ -50,5 +50,4 @@ Let me know if you'd like help adding a screenshot preview or turning this into 
 
 ---
 
-## 📁 Project Structure
 
