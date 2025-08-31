@@ -33,6 +33,23 @@ Challenge the computer in this classic game of strategy and luck! Built with **H
 | CSS        | Styling & animations |
 | JavaScript | Game logic & interactivity |
 
+
+
+---
+
+## 🚀 Getting Started
+
+To run the game locally:
+
+```bash
+git clone https://github.com/your-username/rock-paper-scissors.git
+
+
+
+---
+
+Let me know if you'd like help adding a screenshot preview or turning this into a hosted webpage with GitHub Pages!
+
 ---
 
 ## 📁 Project Structure
